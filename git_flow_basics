@@ -1,0 +1,15 @@
+git status - shows you any changes needing to be committe
+
+git log - shows you commit history and any commits needing to be pushed to the remote repository
+
+
+git add .  (git add <the specific file e.g. git add lib/some_file.rb)
+git commit -m 'some message about what the commit is about'
+git push -u origin master
+o
+
+cd whatever/location/you/choose
+git clone <repo url> e.g. git clone https://github.com/labibaz/exercises.git
+cd into repository e.g. cd Exercises
+
+git pull -u origin master
